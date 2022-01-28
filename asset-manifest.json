@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/xrofl/static/css/main.073c9b0a.css",
-    "main.js": "/xrofl/static/js/main.00a87b27.js",
+    "main.js": "/xrofl/static/js/main.f850a417.js",
     "static/js/787.6ae3216d.chunk.js": "/xrofl/static/js/787.6ae3216d.chunk.js",
     "index.html": "/xrofl/index.html",
     "main.073c9b0a.css.map": "/xrofl/static/css/main.073c9b0a.css.map",
-    "main.00a87b27.js.map": "/xrofl/static/js/main.00a87b27.js.map",
+    "main.f850a417.js.map": "/xrofl/static/js/main.f850a417.js.map",
     "787.6ae3216d.chunk.js.map": "/xrofl/static/js/787.6ae3216d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.00a87b27.js"
+    "static/js/main.f850a417.js"
   ]
 }
