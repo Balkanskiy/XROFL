@@ -15,7 +15,7 @@
     "three": "^0.137.4",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://balkanskiy.github.io/xrofl",
+  "homepage": "https://balkanskiy.github.io/xrofl",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
