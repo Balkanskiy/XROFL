@@ -1,13 +1,20 @@
-import './App.css';
-import { VRCanvas, DefaultXRControllers } from '@react-three/xr'
+import React from 'react'
+import { OrbitControls, Box } from 'drei'
+import { VRCanvas } from 'react-xr'
+import './index.css'
 
 function App() {
   return (
     <div className="App">
-      hi
       <VRCanvas>
-        {/* All your regular react-three-fiber elements go here */}
-        <DefaultXRControllers />
+        <ambientLight />
+        <spotLight />
+
+        <OrbitControls />
+
+        <Box position={[0, 0.8, -1]} scale={[0.3, 0.3, 0.3]}>
+          <meshStandardMaterial color="#e23" />
+        </Box>
       </VRCanvas>
     </div>
   );
