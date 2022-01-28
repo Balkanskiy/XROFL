@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/XROFL/static/css/main.073c9b0a.css",
-    "main.js": "/XROFL/static/js/main.22a450a6.js",
-    "static/js/787.6ae3216d.chunk.js": "/XROFL/static/js/787.6ae3216d.chunk.js",
+    "main.css": "/XROFL/static/css/main.f978bc51.chunk.css",
+    "main.js": "/XROFL/static/js/main.754f6052.chunk.js",
+    "main.js.map": "/XROFL/static/js/main.754f6052.chunk.js.map",
+    "runtime-main.js": "/XROFL/static/js/runtime-main.157d8170.js",
+    "runtime-main.js.map": "/XROFL/static/js/runtime-main.157d8170.js.map",
+    "static/js/2.d8d990f3.chunk.js": "/XROFL/static/js/2.d8d990f3.chunk.js",
+    "static/js/2.d8d990f3.chunk.js.map": "/XROFL/static/js/2.d8d990f3.chunk.js.map",
     "index.html": "/XROFL/index.html",
-    "main.073c9b0a.css.map": "/XROFL/static/css/main.073c9b0a.css.map",
-    "main.22a450a6.js.map": "/XROFL/static/js/main.22a450a6.js.map",
-    "787.6ae3216d.chunk.js.map": "/XROFL/static/js/787.6ae3216d.chunk.js.map"
+    "precache-manifest.e76eb62304e15331ad3471a7a13c13e9.js": "/XROFL/precache-manifest.e76eb62304e15331ad3471a7a13c13e9.js",
+    "service-worker.js": "/XROFL/service-worker.js",
+    "static/css/main.f978bc51.chunk.css.map": "/XROFL/static/css/main.f978bc51.chunk.css.map",
+    "static/js/2.d8d990f3.chunk.js.LICENSE.txt": "/XROFL/static/js/2.d8d990f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.22a450a6.js"
+    "static/js/runtime-main.157d8170.js",
+    "static/js/2.d8d990f3.chunk.js",
+    "static/css/main.f978bc51.chunk.css",
+    "static/js/main.754f6052.chunk.js"
   ]
 }
